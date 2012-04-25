@@ -1,0 +1,1 @@
+an old piece of messing, started out gluing Mina & async fastcgi code together with a view to making a really simple, lean J2EE-less app server to sit behind nginx. got as far as serving basic requests and parsing post/get etc. dumping here so as not to have to think about storing.
